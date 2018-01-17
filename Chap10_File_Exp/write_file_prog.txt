@@ -1,0 +1,4 @@
+I love programming.
+I love creating data science projects for bank
+I love database programming.
+I love creating app for data science graphs

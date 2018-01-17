@@ -1,0 +1,2 @@
+hi this is book2.
+It test book for file read as book2
