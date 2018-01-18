@@ -15,7 +15,7 @@ with open(filename) as f:
     dates, high, lows = [], [], []
     for ht in reader:
         try:
-            current_date = dt.strptime(ht[0],"%m/%d/%Y")  
+            current_date = dt.strptime(ht[0], "%m/%d/%Y")  
             h = int(ht[1])
             l = int(ht[3])      
         except ValueError:
